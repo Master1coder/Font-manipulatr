@@ -1,0 +1,18 @@
+.heading{
+    font-size: 25px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 10px 10px 10px yellow;
+}
+
+body{
+    font-family: 'Akaya Telivigala', cursive;
+    color: black;
+    background-image: url("514477-solid-black-wallpaper-black-background-wallpaper-plain-black-wallpaper.png");
+}
+
+canvas{
+    border: 5px ridge white;
+    box-shadow: 5px 5px 5px red;
+    border-radius: 20px;
+}
